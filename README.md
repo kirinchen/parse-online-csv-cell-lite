@@ -13,6 +13,13 @@ Used to quickly get the one cell value of online csv
 		});
  ```
  
+ ## Parameters
+ 
+ 1. url : csv file url
+ 2. pox : csv columns position
+ 3. poy : csv rows position
+ 4. cb : fetch data callback 
+ 
  ## example
  
  https://jsfiddle.net/tcfahdqL/13/
