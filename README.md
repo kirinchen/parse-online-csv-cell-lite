@@ -2,6 +2,8 @@
 
 Used to quickly get the one cell value of online csv
 
+> 可以用在線上的 csv檔 , 像是 google sheet 發布csv到網路上也可以使用
+
 ## How to use
 
  * import ``` https://kirinchen.github.io/parse-online-csv-cell-lite/poccl.js ```
